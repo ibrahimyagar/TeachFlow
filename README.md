@@ -8,13 +8,13 @@ TeachFlow, öğretmenler ve öğrenciler için geliştirilmiş modern bir sını
 ![Ana Sayfa](wwwroot/images/anasayfa.png)
 
 ### Giriş Sayfası
-![Giriş Sayfası](images/login.png)
+![Giriş Sayfası](wwwroot/images/login.png)
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](wwwroot/images/dashboard.png)
 
 ### Panel
-![Panel](images/panel.png)
+![Panel](wwwroot/images/panel.png)
 
 ## 🚀 Özellikler
 
