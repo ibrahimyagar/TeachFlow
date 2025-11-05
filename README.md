@@ -2,6 +2,20 @@
 
 TeachFlow, öğretmenler ve öğrenciler için geliştirilmiş modern bir sınıf yönetim sistemidir. Bu platform, sınıf oluşturma, ödev yönetimi, duyuru sistemi ve öğrenci takibi gibi özellikler sunar.
 
+## 📸 Ekran Görüntüleri
+
+### Ana Sayfa
+![Ana Sayfa](images/anasayfa.png)
+
+### Giriş Sayfası
+![Giriş Sayfası](images/login.png)
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Panel
+![Panel](images/panel.png)
+
 ## 🚀 Özellikler
 
 ### Sınıf Yönetimi
