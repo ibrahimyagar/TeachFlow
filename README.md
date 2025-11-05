@@ -5,7 +5,7 @@ TeachFlow, öğretmenler ve öğrenciler için geliştirilmiş modern bir sını
 ## 📸 Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](images/anasayfa.png)
+![Ana Sayfa](wwwroot/images/anasayfa.png)
 
 ### Giriş Sayfası
 ![Giriş Sayfası](images/login.png)
